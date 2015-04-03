@@ -1,2 +1,2 @@
-# Nishant
+# Nishant Thapliyal
 My first repo
